@@ -1,0 +1,16 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\ref\Asinchr programm.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\bin\Debug\net5.0\Asinchr programm.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\ref\Asinchr programm.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание асинхронное прогр\Asinchr programm\Asinchr programm\obj\Debug\net5.0\Asinchr programm.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Asinchr programm/1.0.0": {
+        "runtime": {
+          "Asinchr programm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asinchr programm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
